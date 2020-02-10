@@ -59,7 +59,7 @@ dt
 chisq <- chisq.test(corruption)
 chisq
 
-#finally!
+#finally! (part a and b)
 r1 = c(14,6,7)
 r2 = c(7,7,1)
 rows = 2
@@ -72,6 +72,10 @@ corruption
 chisq.test(corruption,
            correct = TRUE)
 chisq
+
+#part c
+corruption.lm = lm(corruption ~ )
+#part d
 #####################
 # Problem 2
 #####################
@@ -79,3 +83,7 @@ chisq
 #####################
 # Problem 3
 #####################
+fruitfly = read.csv("fruitfly.csv")
+summary(fruitfly)
+fruitfly$lifespan
+hist(fruitfly$lifespan)
