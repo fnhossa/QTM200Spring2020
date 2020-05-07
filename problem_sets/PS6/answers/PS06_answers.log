@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.29)  6 MAY 2020 19:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.29)  6 MAY 2020 23:06
 entering extended mode
-**./PS5_answers.tex
-(PS5_answers.tex
+**./PS06_answers.tex
+(PS06_answers.tex
 LaTeX2e <2019-10-01> patch level 3
 ("C:\Users\hossa\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
 Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
@@ -1044,8 +1044,8 @@ File: listings.cfg 2019/09/10 1.8c listings configuration
 ))
 Package: listings 2019/09/10 1.8c (Carsten Heinz)
 \c@hyp=\count163
- (PS5_answers.aux)
-\openout1 = `PS5_answers.aux'.
+ (PS06_answers.aux)
+\openout1 = `PS06_answers.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
 LaTeX Font Info:    ... okay on input line 67.
@@ -1132,9 +1132,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 67.
 LaTeX Info: Redefining \pageref on input line 67.
 LaTeX Info: Redefining \nameref on input line 67.
- (PS5_answers.out) (PS5_answers.out)
+ (PS06_answers.out) (PS06_answers.out)
 \@outlinefile=\write7
-\openout7 = `PS5_answers.out'.
+\openout7 = `PS06_answers.out'.
 
 
 ABD: EveryShipout initializing macros
@@ -1153,87 +1153,39 @@ sty"
 File: lstlang3.sty 2019/09/10 1.8c listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 83.
- (PS5_answers.R
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 4
-2.
+nput line 82.
+ (PS6_answers.R
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 3
+7.
 
 ("C:\Users\hossa\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omlcmr.fd"
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 42.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 37.
 )
-(PS5_answers.R)
-<plot 1.1.pdf, id=6, 614.295pt x 794.97pt>
-File: plot 1.1.pdf Graphic file (type pdf)
-<use plot 1.1.pdf>
-Package pdftex.def Info: plot 1.1.pdf  used on input line 90.
-(pdftex.def)             Requested size: 469.75502pt x 607.9196pt.
-
-Overfull \hbox (20.88867pt too wide) in paragraph at lines 90--92
-[]
- []
-
 [1
 
-{C:/Users/hossa/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2 <./plot 
-1.1.pdf>] (PS5_answers.R)
-<plot 1.2.pdf, id=37, 614.295pt x 794.97pt>
-File: plot 1.2.pdf Graphic file (type pdf)
-<use plot 1.2.pdf>
-Package pdftex.def Info: plot 1.2.pdf  used on input line 94.
-(pdftex.def)             Requested size: 469.75502pt x 607.9196pt.
-
-Overfull \hbox (20.88867pt too wide) in paragraph at lines 94--96
-[]
- []
-
-[3] [4 <./plot 1.2.pdf>] (PS5_answers.R)
-<plot 1.3.pdf, id=54, 614.295pt x 794.97pt>
-File: plot 1.3.pdf Graphic file (type pdf)
-<use plot 1.3.pdf>
-Package pdftex.def Info: plot 1.3.pdf  used on input line 98.
-(pdftex.def)             Requested size: 469.75502pt x 607.9196pt.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 100.
-
-
-Overfull \hbox (20.88867pt too wide) in paragraph at lines 98--109
-[]
- []
-
-[5] [6 <./plot 1.3.pdf>] (PS5_answers.R) (PS5_answers.R)
-<plot 1.4.pdf, id=77, 614.295pt x 794.97pt>
-File: plot 1.4.pdf Graphic file (type pdf)
-<use plot 1.4.pdf>
-Package pdftex.def Info: plot 1.4.pdf  used on input line 118.
-(pdftex.def)             Requested size: 469.75502pt x 607.9196pt.
-
-Overfull \hbox (20.88867pt too wide) in paragraph at lines 118--120
-[]
- []
-
-[7] [8 <./plot 1.4.pdf>] [9]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 122.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 122.
- (PS5_answers.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 122.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 122.
-Package rerunfilecheck Info: File `PS5_answers.out' has not changed.
+{C:/Users/hossa/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(PS6_answers.R) [2] (PS6_answers.R) [3] (PS6_answers.R) [4] (PS6_answers.R)
+[5]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 254.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 254.
+ (PS06_answers.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 254.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 254.
+Package rerunfilecheck Info: File `PS06_answers.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 122.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 254.
  ) 
 Here is how much of TeX's memory you used:
- 23913 strings out of 492484
- 418818 string characters out of 3121601
- 720883 words of memory out of 3000000
- 27718 multiletter control sequences out of 15000+200000
- 14724 words of font info for 61 fonts, out of 3000000 for 9000
+ 23891 strings out of 492484
+ 418288 string characters out of 3121601
+ 705963 words of memory out of 3000000
+ 27709 multiletter control sequences out of 15000+200000
+ 15031 words of font info for 62 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,9n,60p,3245b,2111s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,6n,60p,3246b,2109s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\hossa\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
 tcrm1000.pk> <C:\Users\hossa\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/
 ec/dpi600\tcrm1200.pk><C:/Users/hossa/AppData/Local/Programs/MiKTeX 2.9/fonts/t
@@ -1247,9 +1199,9 @@ onts/cm/cmr17.pfb><C:/Users/hossa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmr6.pfb><C:/Users/hossa/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/hossa/AppData/Local/Program
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on PS5_answers.pdf (9 pages, 140601 bytes).
+Output written on PS06_answers.pdf (5 pages, 128121 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
- 39 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 109 PDF objects out of 1000 (max. 8388607)
+ 31 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
